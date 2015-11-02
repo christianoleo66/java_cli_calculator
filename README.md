@@ -58,11 +58,17 @@ For a start:
 - [Atom Editor](https://atom.io/) as IDE
 - [Mac OS X Terminal](http://www.maclife.de/tipps-tricks/software/os-x-das-terminal-fuer-einsteiger) to run your application
 - [JUnit](http://junit.org/) (Should be already installed or comes with this project)
+- Maven ()
+  - Check if installed via `mvn -v`.If not, [install Homebrew](http://brew.sh/), then install via `brew install maven`.
+
+# First steps
+
+Install the application via `mvn install`.
 
 # Run the application
 
-…
+Compile the application via `mvn compile`. Then start your application with the `java` command.
 
 # Run the tests
 
-…
+Run your tests via `mvn test`.
