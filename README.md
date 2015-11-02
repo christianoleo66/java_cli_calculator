@@ -44,7 +44,7 @@ For now and any future releases:
 
 # Tools
 
-…whatever think does the job.
+…whatever you think does the job.
 
 For a start:
 
