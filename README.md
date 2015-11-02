@@ -2,7 +2,7 @@
 
 A Command Line (CLI) Calculator written in Java.
 
-# Acceptance Criteria
+# User Acceptance Criteria
 
 For each release, [create a release on Github](https://help.github.com/articles/creating-releases/) and send a link to the release page to your acceptance tester. Your acceptance tester can be the person who looks after you, other interns or mutiple people. The idea is that you get feedback and guidance early and often to accelerate both learning and results.
 
@@ -34,10 +34,17 @@ For now and any future releases:
 
 - I want to get the radical of a number.
 
+# Technical Acceptance Criteria
+
+- Use Java to program your application (It should be already installed on your machine)
+- Use the command line interface (CLI / Mac OS X Terminal) to run your application and fetch the user's input
+- Use JUnit to write **at least one test** per user acceptance criteria
+
 # Resources
 
 - [Hour of Code](https://studio.code.org/hoc/1)
 - [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
+- [JUnit Tests](http://www.vogella.com/tutorials/JUnit/article.html)
 - [Mac Terminal Commands](http://guides.macrumors.com/Terminal)
 - [Mac Terminal Cheatsheet](https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-))
 - [Github Releases](https://help.github.com/articles/creating-releases/)
@@ -50,3 +57,12 @@ For a start:
 
 - [Atom Editor](https://atom.io/) as IDE
 - [Mac OS X Terminal](http://www.maclife.de/tipps-tricks/software/os-x-das-terminal-fuer-einsteiger) to run your application
+- [JUnit](http://junit.org/) (Should be already installed or comes with this project)
+
+# Run the application
+
+…
+
+# Run the tests
+
+…
