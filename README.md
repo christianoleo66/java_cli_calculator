@@ -49,3 +49,4 @@ For now and any future releases:
 For a start:
 
 - [Atom Editor](https://atom.io/) as IDE
+- [Mac OS X Terminal](http://www.maclife.de/tipps-tricks/software/os-x-das-terminal-fuer-einsteiger)
