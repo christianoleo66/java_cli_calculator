@@ -150,7 +150,7 @@ Go on with the next task.
 
 # Resources and help
 
-- [Hour of Code](https://studio.code.org/hoc/1)
+- [Hour of Code]( )
 - [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel/)
 - [JUnit Tests](http://www.vogella.com/tutorials/JUnit/article.html)
 - [Mac Terminal Commands](http://guides.macrumors.com/Terminal)

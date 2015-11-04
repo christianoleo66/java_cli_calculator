@@ -5,31 +5,34 @@ import junit.framework.TestCase;
 /**
  * Unit test for simple App.
  */
-public class SumTest extends TestCase
+public class MultiplyTest extends TestCase
 {
+    private String testName;
+
     /**
      * Create the test case
      *
      * @param testName name of the test case
      */
-    public SumTest(String testName)
+    public MultiplyTest(String testName)
     {
         super( testName );
+        this.testName = testName;
     }
 
     /**
      * Rigourous Test :-)
      */
-    public void testDoSum()
+    public void testDomultiply()
     {
         double zahl1 = 1;
         double zahl2 = 1;
 
 
-        Sum sum = new Sum(zahl1, zahl2);
-        sum.doSum();
-        double result = sum.getResult();
+        Multiply multiply = new Multiply(zahl1, zahl2);
+        multiply.doMultiply();
+        double result = multiply.getResult();
 
-        assertTrue( result == 2);
+        assertTrue(result == 2);
     }
 }
